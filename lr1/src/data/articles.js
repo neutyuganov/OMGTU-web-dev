@@ -52,6 +52,24 @@ const articles = [
     date: '2 апреля 2026',
     tag: 'Git',
     image: 'https://picsum.photos/seed/git6/400/250'
+  },
+  {
+    id: 7,
+    title: 'Пропсы и композиция компонентов',
+    excerpt: 'Как передавать данные между компонентами через props и собирать интерфейс из переиспользуемых частей.',
+    author: 'Екатерина Новикова',
+    date: '5 апреля 2026',
+    tag: 'Основы',
+    image: 'https://picsum.photos/seed/props7/400/250'
+  },
+  {
+    id: 8,
+    title: 'Адаптивная вёрстка на практике',
+    excerpt: 'Media queries, относительные единицы и мобильный подход в современном фронтенде.',
+    author: 'Алексей Фёдоров',
+    date: '9 апреля 2026',
+    tag: 'Вёрстка',
+    image: 'https://picsum.photos/seed/responsive8/400/250'
   }
 ];
 
